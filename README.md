@@ -1,7 +1,7 @@
 # Advanced Machine Learning Repository Details
 
 This table provides an overview of each project, including the focus area, a brief description, and a summary of the results achieved.
-Here's a summary table of the projects included:
+Here's a summary table of the projects included:
 
 | Project Title                 | Algorithms/Category        | Description                                                                 | Results Summary                                                       |
 |-------------------------------|----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|
